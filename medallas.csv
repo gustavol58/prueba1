@@ -1,0 +1,94 @@
+Pais_l,Pais_c,Oro,Plata,Bronce
+Estados Unidos,USA,39,41,33
+China,CHN,38,32,19
+Japón,JPN,27,14,17
+Reino Unido,GBR,22,20,22
+ROC,ROC,20,28,23
+Australia,AUS,17,7,22
+Países Bajos,NED,10,12,14
+Francia,FRA,10,12,11
+Alemania,GER,10,11,16
+Italia,ITA,10,10,20
+Canadá,CAN,7,7,10
+Brasil,BRA,7,6,8
+Nueva Zelanda,NZL,7,6,7
+Cuba,CUB,7,3,5
+Hungría,HUN,6,7,7
+Corea del Sur,KOR,6,4,10
+Polonia,POL,4,5,5
+República Checa,CZE,4,4,3
+Kenia,KEN,4,4,2
+Noruega,NOR,4,2,2
+Jamaica,JAM,4,1,4
+España,ESP,3,8,6
+Suecia,SWE,3,6,0
+Suiza,SUI,3,4,6
+Dinamarca,DEN,3,4,4
+Croacia,CRO,3,3,2
+Irán,IRI,3,2,2
+Serbia,SRB,3,1,5
+Bélgica,BEL,3,1,3
+Bulgaria,BUL,3,1,2
+Eslovenia,SLO,3,1,1
+Uzbekistán,UZB,3,0,2
+Georgia,GEO,2,5,1
+China Taipéi,TPE,2,4,6
+Turquía,TUR,2,2,9
+Grecia,GRE,2,1,1
+Uganda,UGA,2,1,1
+Ecuador,ECU,2,1,0
+Irlanda,IRL,2,0,2
+Israel,ISR,2,0,2
+Catar,QAT,2,0,1
+Bahamas,BAH,2,0,0
+Kosovo,KOS,2,0,0
+Ucrania,UKR,1,6,12
+Bielorrusia,BLR,1,3,3
+Rumania,ROU,1,3,0
+Venezuela,VEN,1,3,0
+India,IND,1,2,4
+Hong Kong,HKG,1,2,3
+Filipinas,PHI,1,2,1
+Eslovaquia,SVK,1,2,1
+Sudáfrica,RSA,1,2,0
+Austria,AUT,1,1,5
+Egipto,EGY,1,1,4
+Indonesia,INA,1,1,3
+Etiopía,ETH,1,1,2
+Portugal,POR,1,1,2
+Túnez,TUN,1,1,0
+Estonia,EST,1,0,1
+Fiyi,FIY,1,0,1
+Letonia,LAT,1,0,1
+Tailandia,THA,1,0,1
+Bermudas,BER,1,0,0
+Marruecos,MAR,1,0,0
+Puerto Rico,PUR,1,0,0
+Colombia,COL,0,4,1
+Azerbaiyán,AZE,0,3,4
+República Dominicana,DOM,0,3,2
+Armenia,ARM,0,2,2
+Kirguistán,KGZ,0,2,1
+Mongolia,MGL,0,1,3
+Argentina,ARG,0,1,2
+San Marino,SMR,0,1,2
+Jordania,JOR,0,1,1
+Malasia,MAL,0,1,1
+Nigeria,NGR,0,1,1
+Arabia Saudita,KSA,0,1,0
+Baréin,BRN,0,1,0
+Lituania,LTU,0,1,0
+Macedonia del Norte,MKD,0,1,0
+Namibia,NAM,0,1,0
+Turkmenistán,TKM,0,1,0
+Kazajistán,KAZ,0,0,8
+México,MEX,0,0,4
+Finlandia,FIN,0,0,2
+Botsuana,BOT,0,0,1
+Burkina Faso,BFA,0,0,1
+Costa de Marfil,CIV,0,0,1
+Ghana,GHA,0,0,1
+Granada,GRN,0,0,1
+Kuwait,KUW,0,0,1
+Moldavia,MDA,0,0,1
+Siria,SYR,0,0,1
